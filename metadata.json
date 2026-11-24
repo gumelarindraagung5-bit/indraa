@@ -1,0 +1,6 @@
+{
+  "name": "Stickman Video Studio",
+  "description": "Studio produksi video edukasi YouTube bergaya stickman dalam 6 langkah wizard: dari ide naskah, audio, timestamp adegan, prompt gambar, studio editing video, hingga paket YouTube.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
